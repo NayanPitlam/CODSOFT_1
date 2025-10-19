@@ -1,0 +1,1 @@
+WakeUpSid: A responsive alarm clock app (HTML/JS/Tailwind) featuring precise H:M:S and Date setting for daily/one-time alarms. Includes robust Snooze (9 min) and Dismiss logic. A project focusing on time-based state management and mobile-first UI development.
